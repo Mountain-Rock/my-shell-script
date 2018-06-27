@@ -1,0 +1,11 @@
+[{
+	"resource_instance_id": "crn::",
+	"plan_id": "772f0744",
+	"start": "starttime",
+	"end":   "endtime",
+	"region": "us-south",
+	"measured_usage": [{
+		"measure": "INSTANCE",
+		"quantity": 1
+	}]
+}]
