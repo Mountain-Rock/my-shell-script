@@ -3,7 +3,7 @@
 # [Author] Title
 #          Description
 # ------------------------------------------------------------------
-
+set -x # debug mode
 SUBJECT=some-unique-id
 VERSION=0.1.0
 USAGE="Usage: command -hv args"
